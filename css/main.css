@@ -1,3 +1,27 @@
-h1 {
-    color: red;
-}
+    h2 {
+        font-family: 'Lato', sans-serif;
+        font-size: 20pt;
+      }
+      #links {
+        font-size: 10pt;
+        position: relative;
+        left: 25px;
+      }
+      
+      ul {
+        width: 600px;
+        font-family: 'Lato', sans-serif;
+        font-size: 10pt;
+      }
+      
+      p {
+        width: 500px;
+        font-family: 'Lato', sans-serif;
+        font-size: 12pt;
+      }
+      
+      header {
+        font-family: 'Crimson Text', serif;
+        font-size: 18pt;
+        text-align: center;
+      }
